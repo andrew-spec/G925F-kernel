@@ -77,7 +77,7 @@ fi;
 
 # G925F
 if [ "$TARGET" = "G925F" ] ; then
-	export KERNEL_CONFIG="custom-zeroltetmo";
+	export KERNEL_CONFIG="custom-zerolte_02_defconfig";
 fi;
 
 # build script
